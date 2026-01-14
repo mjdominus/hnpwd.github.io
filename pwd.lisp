@@ -39,9 +39,17 @@
   :blog "https://blog.jgc.org/"
   :feed "https://blog.jgc.org/feeds/posts/default"
   :about "https://en.wikipedia.org/wiki/John_Graham-Cumming"
-
   :hnuid "jgc"
   :bio "Original writer of POPFile.  Member of the board of directors at Cloudflare.")
+
+ (:name "Joseph Szymborski"
+  :site "https://jszym.com/"
+  :blog "https://jszym.com/blog/"
+  :feed "https://jszym.com/index.xml"
+  :about "https://jszym.com/about/"
+  :hnuid "jszymborski"
+  :bio "Computational biology researcher.  Writes about technology and society.")
+
 
  (:name "Karl Knechtel"
   :site "https://zahlman.github.io/"
