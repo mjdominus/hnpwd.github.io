@@ -49,6 +49,13 @@
   :hnuid "arulpugazh"
   :bio "Canadian ML engineer and founder of TensorHub Solutions Inc.")
 
+ (:name "Bboysoul"
+  :site "https://www.bboy.app"
+  :feed "https://www.bboy.app/atom.xml"
+  :about "https://www.bboy.app/about.html"
+  :hnuid "bboysoul"
+  :bio "Documenting my life.")
+
  (:name "Beast Hacker"
   :site "https://beasthacker.com/"
   :about "https://beasthacker.com/about.html"
