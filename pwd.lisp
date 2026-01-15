@@ -63,6 +63,13 @@
   :hnuid "geerlingguy"
   :bio "Builds large enterprise deployments on private and public cloud infrastructure.")
 
+(:name "Jeffrey Starr"
+  :site "https://ztoz.blog/"
+  :feed "https://ztoz.blog/index.xml"
+  :about "https://ztoz.blog/about/"
+  :hnuid "jwstarr"
+  :bio "Writes about computing history and computer science")
+
  (:name "John Graham-Cumming"
   :site "https://jgc.org/"
   :blog "https://blog.jgc.org/"
