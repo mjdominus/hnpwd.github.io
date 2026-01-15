@@ -105,6 +105,13 @@
   :hnuid "gavinhoward"
   :bio "Recovering C programmer with many interests.")
 
+ (:name "Ian Reppel"
+  :site "https://ianreppel.org"
+  :feed "https://ianreppel.org/feed.xml"
+  :about "https://ianreppel.org/about"
+  :hnuid "i7l"
+  :bio "Writes about machine learning, quantum computing, and product management.")
+
  (:name "Jeff Geerling"
   :site "https://www.jeffgeerling.com/"
   :feed "https://www.jeffgeerling.com/blog.xml"
