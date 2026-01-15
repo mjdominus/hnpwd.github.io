@@ -3,10 +3,10 @@
   <head>
     <title>HN Personal Websites</title>
     <dateCreated>Wed, 14 Jan 2026 00:00:00 UTC</dateCreated>
-    <dateModified>Thu, 15 Jan 2026 21:04:33 UTC</dateModified>
+    <dateModified>Thu, 15 Jan 2026 21:40:00 UTC</dateModified>
   </head>
   <body>
-    <!-- 48 entries -->
+    <!-- 49 entries -->
     <outline text="HN Personal Websites" title="HN Personal Websites">
       <outline type="rss" text="Aditya Athalye" title="Aditya Athalye" xmlUrl="https://www.evalapply.org/index.xml" htmlUrl="https://www.evalapply.org/"/>
       <outline type="rss" text="Alan Grow" title="Alan Grow" xmlUrl="https://alangrow.com/blog/atom.xml" htmlUrl="https://alangrow.com/"/>
@@ -22,6 +22,7 @@
       <outline type="rss" text="Captain's Quarters" title="Captain's Quarters" xmlUrl="https://quarters.captaintouch.com/blog/posts.xml" htmlUrl="https://quarters.captaintouch.com/"/>
       <outline type="rss" text="Chris Morgan" title="Chris Morgan" xmlUrl="https://chrismorgan.info/feed.xml" htmlUrl="https://chrismorgan.info/"/>
       <outline type="rss" text="Ciju Cherian" title="Ciju Cherian" xmlUrl="https://ciju.in/rss.xml" htmlUrl="https://ciju.in/"/>
+      <outline type="rss" text="Damian Walsh" title="Damian Walsh" xmlUrl="https://damianwalsh.co.uk/feed.xml" htmlUrl="https://damianwalsh.co.uk/"/>
       <outline type="rss" text="Doug Slater" title="Doug Slater" xmlUrl="https://www.slater.dev/atom.xml" htmlUrl="https://www.slater.dev/"/>
       <outline type="rss" text="Dustin Brett" title="Dustin Brett" xmlUrl="https://dustinbrett.com/rss.xml" htmlUrl="https://dustinbrett.com/"/>
       <outline type="rss" text="Gavin D. Howard" title="Gavin D. Howard" xmlUrl="https://gavinhoward.com/index.xml" htmlUrl="https://gavinhoward.com/"/>
